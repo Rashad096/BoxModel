@@ -1,0 +1,100 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 30%;
+    float: left;
+    margin: 0 calc(10%/6);
+    
+}
+.box img{
+    width: 100%;
+}
+
+h2,p,a,.header00{
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+.box_all .box{
+    margin-top: 2rem;
+}
+
+.portfolio{
+    padding: 3rem;
+    margin: 35rem 0 5rem 0;
+    width: 100%;
+  
+    
+}
+
+.header{
+   position: fixed;
+    overflow: auto;
+    width: 100%;
+    padding: 30px 2rem;
+    
+    
+}
+.logo{
+    float: left;
+}
+.nav{
+    float: right;
+}
+
+.nav a{
+    padding-left: 20px;
+}
+
+
+    
+.photo{
+    
+ text-align: center;
+    background-image: url(https://bobbysfashions.com/wp-content/uploads/2018/05/Style-Accessories-for-Men.jpg);
+    background-position: cover;
+    height: 600px;
+    width: 100rem;
+}
+
+.header a{
+
+    color: #f8f9fa;
+     text-decoration: none;
+
+}   
+
+.header00{
+   padding: 8rem;
+}
+ 
+.button button{
+    margin-top: 3rem 0;
+}
+.photo .header00 h2{
+    margin: 3rem 0 ;
+}
+.photo .header00 h1{
+    margin: 3rem;
+}
+
+.header00 h2,h1{
+    color:#f8f9fa;
+}
+
+.header00 button{
+    background-color: yellow;
+    border: 1px solid yellow;
+    height: 50px;
+    width: 70px;
+}
+
+
+   
+
+ 
+ 
